@@ -102,7 +102,7 @@ HPBW = Angle between points at -3 dB from main lobe peak
 | Gain | dB | 22 dB | Calculated from gain equation |
 
 
-## 📉 OBSERVATION TABLE 
+## OBSERVATION TABLE 
 **Radiation Pattern of Horn Antenna**
 
 | Angle (°) | VSWR (dB) | Relative Power (dB) |
